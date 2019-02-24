@@ -15,7 +15,7 @@ Command:
 mstsc
 ```
 
-### 3.
+### 3.Open Network 
 
 ```
 control netconnections
